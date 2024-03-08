@@ -17,4 +17,4 @@ Python 3
 
 ## *Author Name*
 <!--Remove the below lines and add yours -->
-[Gaodong](https://github.com/xlgd)
+[Zangtics Dev Team](https://zangticsdigital.com/)
